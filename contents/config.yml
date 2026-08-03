@@ -17,3 +17,7 @@ sections:
     nav: HOME
     title: FrostWoods&ensp;|&ensp;霜木
     href: '#page-top'
+  - id: reflections
+    nav: REFLECTIONS
+    title: REFLECTIONS
+    icon: bi-journal-text
