@@ -1,0 +1,19 @@
+title: FrostWoods's Homepage
+page-top-title: FrostWoods
+top-section-bg-text: Computer Science
+backgrounds:
+  - static/assets/background/background.png
+background-interval-ms: 7000
+background-overlay: 0.52
+copyright-text: '&copy; FrostWoods 2026. All Rights Reserved.'
+github-link:
+  text: Github
+  href: https://github.com/Frost-Woods
+license-link:
+  text: License
+  href: https://github.com/Frost-Woods/Frost-Woods.github.io/blob/main/LICENSE
+sections:
+  - id: home
+    nav: HOME
+    title: FrostWoods&ensp;|&ensp;霜木
+    href: '#page-top'
